@@ -1,6 +1,6 @@
 --
 -- ER/Studio Data Architect SQL Code Generation
--- Project :      DATA MODEL
+-- Project_test :      DATA MODEL
 --
 -- Date Created : Wednesday, February 19, 2020 21:43:56
 -- Target DBMS : Oracle 12c
