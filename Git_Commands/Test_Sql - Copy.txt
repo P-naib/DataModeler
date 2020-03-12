@@ -1,0 +1,5 @@
+Select * from ALL_TAB_COLS;           
+
+
+
+
